@@ -1,2 +1,3 @@
 # hello-world
 This is my first repository. I feel very proud!
+I'm a mathematician that I enjoy programming too much...
